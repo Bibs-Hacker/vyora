@@ -1,0 +1,16 @@
+-- VYORA — OPTIONAL demo data
+--
+-- IMPORTANT: This is clearly-labelled DEMO data for local development only.
+-- It is NOT shipped to production and is NOT presented in the app as real
+-- user content. Do not run this against a production database.
+--
+-- Because profiles are 1:1 with auth.users, you must first create real users
+-- through the app's sign-up screen (or the Supabase Auth dashboard). Then you
+-- can attach demo posts to those real accounts by replacing the UUIDs below.
+--
+-- Example (after creating an account, copy its id from auth.users):
+--
+-- insert into public.posts (author_id, content) values
+--   ('00000000-0000-0000-0000-000000000000', 'Welcome to VYORA — demo post');
+--
+-- Leave this file empty in production.
