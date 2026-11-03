@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VYORA
 
 **A world made for connection.**
@@ -172,3 +173,6 @@ vyora/
 ---
 
 _VYORA — A world made for connection. Created by Dev Brian._
+=======
+# vyora
+>>>>>>> dd30f054ea1625e7ce7a0f86033de8a010b5ce21
